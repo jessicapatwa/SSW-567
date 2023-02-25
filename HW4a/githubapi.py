@@ -27,6 +27,6 @@ def githubapi(usernm):
 
     return True
 
-if __name__ == '__main__':
-    userInput = input("Enter Github username: ")
-    githubapi(userInput)
+# if __name__ == '__main__':
+#     userInput = input("Enter Github username: ")
+#     githubapi(userInput)
