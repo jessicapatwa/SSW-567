@@ -11,7 +11,7 @@ class Testgithubapi(unittest.TestCase):
     def testGithub(self):
         self.assertEqual(githubapi('?'), False)
     def testGithub2(self):
-        self.assertEqual(githubapi('JessicaPatwa'), True)
+        self.assertEqual(githubapi('jessicapatwa'), True)
 
 if __name__ == '__main__':
     print("Test cases are running")
