@@ -10,4 +10,4 @@ Develop with the Perspective of the Tester in mind
 The challenge that I faced during this was configuring the config.yml file. It took almost 15 CircleCI steps to get my success status for this assignment. 
 
 
-[![NehharShah](https://circleci.com/gh/NehharShah/SSW-567-HW04.svg?style=svg)](https://app.circleci.com/pipelines/github/NehharShah/SSW-567-HW04?branch=main&filter=all)
+[![jessicapatwa](https://circleci.com/gh/jessicapatwa/HW4a.svg?style=svg)](https://app.circleci.com/pipelines/github/jessicapatwa/HW4a?branch=main&filter=all)
